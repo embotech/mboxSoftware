@@ -1,0 +1,12 @@
+{
+    "retargetingEventTime":-1, 
+    "trackingErrorThreshold":2, 
+    "takeOffHeight":2, 
+    "verticalTakeOffVelocity":[0,0,0], 
+    "offlineOtpGeneration":false, 
+    "launchPadPosition":[0,0,0], 
+    "maxSpeedConstraint":1.1, 
+    "tiltAngleConstraint":0.26179938779914941, 
+    "glideSlopeAngleConstraint":1.5009831567151235, 
+    "waypoints":[[8,0,0,0,0,0],[2,0,0,0,0,0],[0,0,0,0,0,0]]
+}

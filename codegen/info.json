@@ -1,0 +1,17 @@
+{
+    "date":"30-Mar-2022 19:44:41", 
+    "git":{
+        "esa_optiguide":"8936044a434f21c6ec8850b9bde77b39cb6333a5", 
+        "spacelib":"001db5f962ad9a174858d416c464bc8f2ceb4068"
+    }, 
+    "platforms":[
+        "rpi_aarch72", 
+        "gnu_x86_64"
+    ], 
+    "models":{
+        "navigation":"obrttg_navigation_mBox", 
+        "mvm":"obrttg_mvm_mBox", 
+        "guidance":"obrttg_guidance_mBox", 
+        "optimal_trajectory_planner":"obrttg_otp_sfcn_nlp3_DTVsingle_96d7"
+    }
+}

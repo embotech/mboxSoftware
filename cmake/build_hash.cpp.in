@@ -1,0 +1,2 @@
+#include "build_hash.hpp"
+const char *kBuildHash = "@GIT_HASH@";

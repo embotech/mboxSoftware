@@ -1,0 +1,2 @@
+target_sources(obrttgUnitTests PRIVATE message_thread_example_test.cpp request_reply_thread_example_test.cpp)
+target_link_libraries(obrttgUnitTests PUBLIC messageThread)
