@@ -3,6 +3,8 @@ This repository contains the software that is intended to run on the mBox Payloa
 
 This software is released under [MIT license](./LICENSE).
 
+*Note: This repository is not actively maintained. Any pull requests will be ignored.*
+
 #### Version
 0.2.1
 
